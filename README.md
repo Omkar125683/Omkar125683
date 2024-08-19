@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops , Blockchain**
 
-- 💬 Ask me about **I am a skilled MERN Stack Developer with expertise in building modern, scalable web applications using MongoDB, Express.js, React.js, and Node.js. With a strong understanding of both frontend and backend development, i am capable of managing the entire development process, from designing responsive user interfaces to implementing robust server-side logic. i have Skills Include: Frontend Development:**
+- 💬 Ask me about **I am a skilled MERN Stack Developer with expertise in building modern, scalable web applications using MongoDB, Express.js, React.js, and Node.js. With a strong understanding of both frontend and backend development, i am capable of managing the entire development process, from designing responsive user interfaces to implementing robust server-side logic. i have Skills Include: Frontend Development: React-js , Next-js**
 
 - 📫 How to reach me **omkarbagal18@gmail.com**
 
